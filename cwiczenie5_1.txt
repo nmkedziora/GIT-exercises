@@ -1,0 +1,1 @@
+Dodaj nowy plik o nazwie cwiczenie5_1.txt, wpisz do niego jakikolwiek tekst i zacommituj go.
