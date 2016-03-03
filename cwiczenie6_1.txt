@@ -1,0 +1,3 @@
+Dodaj nowy plik o nazwie cwiczenie6_1.txt, wpisz do niego jakikolwiek tekst i zacommituj go.
+
+4. Przejdź na gałąź master.
