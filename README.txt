@@ -1,5 +1,4 @@
-„README – wersja 2: Master”
 
-W pliku README zmień pierwszą linijkę na „README – wersja 3: Master” i dopisz na końcu
+„README – wersja wspolna dla brancha master i cwiczenie666”
 
-linijkę „Dodane na gałęzi master.”.
+
